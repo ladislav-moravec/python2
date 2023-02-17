@@ -1,3 +1,4 @@
 
-import chess
-print(chess)
+import sachovnice
+print(sachovnice)
+
